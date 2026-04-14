@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37027.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ObnoxiousCounterGame", "ObnoxiousCounterGame.pyproj", "{EBB7247C-239A-4B30-BFBF-DB73A100C3BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBB7247C-239A-4B30-BFBF-DB73A100C3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB7247C-239A-4B30-BFBF-DB73A100C3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18373DAD-D7AB-4EBD-A855-6E05B08B2D05}
+	EndGlobalSection
+EndGlobal
